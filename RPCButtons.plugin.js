@@ -2,7 +2,7 @@
  * @name RPCButtons
  * @author Nexin
  * @authorId 737259502646198354
- * @version 0.0.1
+ * @version 0.0.2
  * @description Take controll of your rpc!
  * @invite gepaTQbWPV
  * @donate https://www.paypal.me/julianjones663
@@ -33,6 +33,10 @@ module.exports = (() => {
         title: "The beginning",
         items: ["The start of the plugin!"],
       },
+      {
+        title: "Added buttons",
+        items: ["Buttons 1 and 2 have been added", "URL's now work", "Fixed most bugs"]
+      }
     ],
     defaultConfig: [
       {

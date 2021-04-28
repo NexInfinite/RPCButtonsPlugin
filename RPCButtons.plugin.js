@@ -7,6 +7,8 @@
  * @invite gepaTQbWPV
  * @donate https://www.paypal.me/julianjones663
  * @website https://julians.work/
+ * @source https://github.com/NexInfinite/RPCButtonsPlugin/blob/main/RPCButtons.plugin.js
+ * @updateUrl https://github.com/NexInfinite/RPCButtonsPlugin/blob/main/RPCButtons.plugin.js
  */
 
 module.exports = (() => {
